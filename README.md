@@ -1,1 +1,3 @@
-# MP3-GreenHouse-Monitoring-
+# GreenHouse-Monitoring-and-Control-System
+<br>
+I developed an IoT-based automation system to monitor and control greenhouse conditions using a Raspberry Pi Pico W. The system utilizes sensors like DHT11 (temperature and humidity), soil moisture, and LDR (light-dependent resistor) to collect real-time data. Based on these readings, actuators such as a DC fan, water pump, and light bulb are controlled to maintain optimal conditions for plant growth.
